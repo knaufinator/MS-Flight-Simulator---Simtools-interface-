@@ -1,0 +1,7 @@
+C:\Users\knauf\Documents\GitHub\GTAV-Telemetry-Simtools-plugin\GamePlugin\DCS\bin\Debug\DCS_GamePlugin.dll
+C:\Users\knauf\Documents\GitHub\GTAV-Telemetry-Simtools-plugin\GamePlugin\DCS\bin\Debug\DCS_GamePlugin.pdb
+C:\Users\knauf\Documents\GitHub\GTAV-Telemetry-Simtools-plugin\GamePlugin\DCS\bin\Debug\Game_PluginAPI.dll
+C:\Users\knauf\Documents\GitHub\GTAV-Telemetry-Simtools-plugin\GamePlugin\DCS\obj\Debug\DCS_GamePlugin.csproj.CopyComplete
+C:\Users\knauf\Documents\GitHub\GTAV-Telemetry-Simtools-plugin\GamePlugin\DCS\obj\Debug\DCS_GamePlugin.dll
+C:\Users\knauf\Documents\GitHub\GTAV-Telemetry-Simtools-plugin\GamePlugin\DCS\obj\Debug\DCS_GamePlugin.pdb
+C:\Users\knauf\Documents\GitHub\GTAV-Telemetry-Simtools-plugin\GamePlugin\DCS\obj\Debug\DCS_GamePlugin.csprojAssemblyReference.cache

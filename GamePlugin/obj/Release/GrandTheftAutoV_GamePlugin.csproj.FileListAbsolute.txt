@@ -1,0 +1,6 @@
+C:\Users\knauf\Documents\GitHub\GTAV-Telemetry-Simtools-plugin\GamePlugin\GamePlugin\bin\Release\GrandTheftAutoV_GamePlugin.dll
+C:\Users\knauf\Documents\GitHub\GTAV-Telemetry-Simtools-plugin\GamePlugin\GamePlugin\bin\Release\GrandTheftAutoV_GamePlugin.pdb
+C:\Users\knauf\Documents\GitHub\GTAV-Telemetry-Simtools-plugin\GamePlugin\GamePlugin\bin\Release\Game_PluginAPI.dll
+C:\Users\knauf\Documents\GitHub\GTAV-Telemetry-Simtools-plugin\GamePlugin\GamePlugin\obj\Release\GrandTheftAutoV_GamePlugin.csproj.CopyComplete
+C:\Users\knauf\Documents\GitHub\GTAV-Telemetry-Simtools-plugin\GamePlugin\GamePlugin\obj\Release\GrandTheftAutoV_GamePlugin.dll
+C:\Users\knauf\Documents\GitHub\GTAV-Telemetry-Simtools-plugin\GamePlugin\GamePlugin\obj\Release\GrandTheftAutoV_GamePlugin.pdb

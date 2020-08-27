@@ -1,0 +1,7 @@
+C:\MSFS SDK\Samples\SimvarWatcher\GamePlugin\bin\Debug\Game_PluginAPI.dll
+C:\MSFS SDK\Samples\SimvarWatcher\GamePlugin\obj\Debug\FS2020_GamePlugin.csproj.CopyComplete
+C:\MSFS SDK\Samples\SimvarWatcher\GamePlugin\bin\Debug\FS2020_GamePlugin.dll
+C:\MSFS SDK\Samples\SimvarWatcher\GamePlugin\bin\Debug\FS2020_GamePlugin.pdb
+C:\MSFS SDK\Samples\SimvarWatcher\GamePlugin\obj\Debug\FS2020_GamePlugin.dll
+C:\MSFS SDK\Samples\SimvarWatcher\GamePlugin\obj\Debug\FS2020_GamePlugin.pdb
+C:\MSFS SDK\Samples\SimvarWatcher\GamePlugin\obj\Debug\FS2020_GamePlugin.csprojAssemblyReference.cache
