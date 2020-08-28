@@ -13,3 +13,18 @@ C:\MSFS SDK\Samples\SimvarWatcher\obj\x64\Debug\Simvars.csproj.GenerateResource.
 C:\MSFS SDK\Samples\SimvarWatcher\obj\x64\Debug\Simvars.csproj.CopyComplete
 C:\MSFS SDK\Samples\SimvarWatcher\obj\x64\Debug\Simvars.exe
 C:\MSFS SDK\Samples\SimvarWatcher\obj\x64\Debug\Simvars.pdb
+C:\Users\knauf\Documents\GitHub\MS-Flight-Simulator---Simtools-interface-\bin\x64\Debug\Simvars.exe.config
+C:\Users\knauf\Documents\GitHub\MS-Flight-Simulator---Simtools-interface-\bin\x64\Debug\Simvars.exe
+C:\Users\knauf\Documents\GitHub\MS-Flight-Simulator---Simtools-interface-\bin\x64\Debug\Simvars.pdb
+C:\Users\knauf\Documents\GitHub\MS-Flight-Simulator---Simtools-interface-\obj\x64\Debug\MainWindow.g.cs
+C:\Users\knauf\Documents\GitHub\MS-Flight-Simulator---Simtools-interface-\obj\x64\Debug\App.g.cs
+C:\Users\knauf\Documents\GitHub\MS-Flight-Simulator---Simtools-interface-\obj\x64\Debug\Simvars_MarkupCompile.cache
+C:\Users\knauf\Documents\GitHub\MS-Flight-Simulator---Simtools-interface-\obj\x64\Debug\Simvars_MarkupCompile.lref
+C:\Users\knauf\Documents\GitHub\MS-Flight-Simulator---Simtools-interface-\obj\x64\Debug\MainWindow.baml
+C:\Users\knauf\Documents\GitHub\MS-Flight-Simulator---Simtools-interface-\obj\x64\Debug\Simvars.g.resources
+C:\Users\knauf\Documents\GitHub\MS-Flight-Simulator---Simtools-interface-\obj\x64\Debug\Simvars.Properties.Resources.resources
+C:\Users\knauf\Documents\GitHub\MS-Flight-Simulator---Simtools-interface-\obj\x64\Debug\Simvars.csproj.GenerateResource.cache
+C:\Users\knauf\Documents\GitHub\MS-Flight-Simulator---Simtools-interface-\obj\x64\Debug\Simvars.csproj.CopyComplete
+C:\Users\knauf\Documents\GitHub\MS-Flight-Simulator---Simtools-interface-\obj\x64\Debug\Simvars.exe
+C:\Users\knauf\Documents\GitHub\MS-Flight-Simulator---Simtools-interface-\obj\x64\Debug\Simvars.pdb
+C:\Users\knauf\Documents\GitHub\MS-Flight-Simulator---Simtools-interface-\bin\x64\Debug\Microsoft.FlightSimulator.SimConnect.dll
